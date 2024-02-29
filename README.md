@@ -21,10 +21,11 @@ Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estud
 
 ## Mis Certificaciones
 
-- AWS Certified Cloud Practitioner: [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/xxxxx-xxxxx-xxxxx-xxxxx-xxxxx.png)](https://www.credly.com/badges/7f02ce4a-62d4-49c5-a4f6-297967ef2e01)
-- AWS Partner: Accreditation (Technical): [![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/xxxxx-xxxxx-xxxxx-xxxxx-xxxxx.png)](https://www.credly.com/badges/fd2f4232-9707-4568-a3e5-38ae0ad1dab5)
-- AWS Partner: Cloud Economics Accreditation: [![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/xxxxx-xxxxx-xxxxx-xxxxx-xxxxx.png)](https://www.credly.com/badges/2ca88817-fe22-4e23-a321-1cfa31d537ed)
-- AWS Partner: Sales Accreditation (Business): [![AWS Partner: Sales Accreditation (Business)](https://images.credly.com/size/110x110/images/xxxxx-xxxxx-xxxxx-xxxxx-xxxxx.png)](https://credly.com/badges/0256279e-a1ff-4f7f-8f17-811532408758)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/7f02ce4a-62d4-49c5-a4f6-297967ef2e01)
+- [AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/fd2f4232-9707-4568-a3e5-38ae0ad1dab5)
+- [AWS Partner: Cloud Economics Accreditation](https://www.credly.com/badges/2ca88817-fe22-4e23-a321-1cfa31d537ed)
+- [AWS Partner: Sales Accreditation (Business)](https://credly.com/badges/0256279e-a1ff-4f7f-8f17-811532408758)
+
 
 
 ## Mis Proyectos Destacados
