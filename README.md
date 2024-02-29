@@ -7,6 +7,8 @@
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Zabbix](https://img.shields.io/badge/-Zabbix-3C679A?style=flat-square&logo=zabbix)
+
 
 ![Banner de Manu](https://i.imgur.com/5tCw87R.jpeg)
 
@@ -16,6 +18,10 @@ Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estud
 - 🌱 Actualmente estoy aprendiendo más sobre automatización de infraestructura, monitoreo y seguridad en la nube.
 - 💬 Pregúntame sobre AWS, Terraform, Jenkins, Docker, Kubernetes y todo lo relacionado con DevOps.
 - 📫 Cómo contactarme: [manuelbarrionuevo678@gmail.com](mailto:manuelbarrionuevo678@gmail.com)
+
+## Certificaciones
+[![Credly Badge](https://images.credly.com/size/110x110/images/xxxxx-xxxxx-xxxxx-xxxxx-xxxxx.png)](https://www.credly.com/badges/7f02ce4a-62d4-49c5-a4f6-297967ef2e01/linked_in_profile)
+
 
 ## Mis Proyectos Destacados
 - [ProyectoDevOps](https://github.com/manuBarriouevo/ProyectoDevOps) - Descripción breve del proyecto.
