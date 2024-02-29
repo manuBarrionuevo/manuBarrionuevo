@@ -8,6 +8,11 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-3C679A?style=flat-square&logo=zabbix)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows)
+![Veeam](https://img.shields.io/badge/-Veeam-00B336?style=flat-square&logo=veeam)
+
 
 
 ![Banner de Manu](https://i.imgur.com/5tCw87R.jpeg)
