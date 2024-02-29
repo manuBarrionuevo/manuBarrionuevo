@@ -1,4 +1,5 @@
 # Hola, soy Manu Barrionuevo 👋
+
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
@@ -22,8 +23,14 @@ Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estud
 - [Terraform-Cloud](https://github.com/manuBarriouevo/Terraform-Cloud) - Descripción breve del proyecto.
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub de Manu](https://github-readme-stats.vercel.app/api?username=manuBarriouevo&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide=contribs)
+![Estadísticas de GitHub de Manu](https://github-readme-stats.vercel.app/api?username=manuBarriouevo&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manuBarriouevo&layout=compact)
+
+## Me gusta...
+- ⚽ Ir a la cancha a ver a Belgrano.
+- 🎵 Escuchar música.
+- 📚 Leer.
+- 🎮 Jugar videojuegos.
 
 ## Encuéntrame en
 - [LinkedIn](https://www.linkedin.com/in/manuel-barrionuevo-7b5946196)
-
