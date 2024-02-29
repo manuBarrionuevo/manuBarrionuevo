@@ -20,7 +20,7 @@ Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estud
 - 📫 Cómo contactarme: [manuelbarrionuevo678@gmail.com](mailto:manuelbarrionuevo678@gmail.com)
 
 ## Certificaciones
-[![Credly Badge](https://images.credly.com/size/110x110/images/xxxxx-xxxxx-xxxxx-xxxxx-xxxxx.png)](https://www.credly.com/badges/7f02ce4a-62d4-49c5-a4f6-297967ef2e01/linked_in_profile)
+[![Credly Badge](https://www.credly.com/badges/7f02ce4a-62d4-49c5-a4f6-297967ef2e01/linked_in_profile)
 
 
 ## Mis Proyectos Destacados
