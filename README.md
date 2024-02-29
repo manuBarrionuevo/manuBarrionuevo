@@ -1,6 +1,7 @@
 # Hola, soy Manu Barriouevo 👋
 
-![Foto de Manu](https://avatars.githubusercontent.com/u/88345654?v=4)  <!-- Reemplaza URL_DE_TU_FOTO con el enlace directo a tu imagen -->
+![Banner de Manu]([URL_DEL_BANNER](https://imgur.com/eVyY7qN))
+
 
 Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estudiar nuevas tecnologías y aprender constantemente. Trabajo mucho con AWS y disfruto compartiendo y discutiendo sobre tecnología.
 
