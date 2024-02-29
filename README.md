@@ -23,14 +23,16 @@ Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estud
 - [Terraform-Cloud](https://github.com/manuBarriouevo/Terraform-Cloud) - Descripción breve del proyecto.
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub de Manu](https://github-readme-stats.vercel.app/api?username=manuBarriouevo&show_icons=true&theme=default&count_private=true&include_all_commits=true)
+![Estadísticas de GitHub de Manu](https://github-readme-stats.vercel.app/api?username=manuBarriouevo&show_icons=true&theme=default)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manuBarriouevo&layout=compact)
+
 
 ## Me gusta...
 - ⚽ Ir a la cancha a ver a Belgrano.
 - 🎵 Escuchar música.
 - 📚 Leer.
 - 🎮 Jugar videojuegos.
+- 🎸 Tocar la guitarra.
 
 ## Encuéntrame en
 - [LinkedIn](https://www.linkedin.com/in/manuel-barrionuevo-7b5946196)
