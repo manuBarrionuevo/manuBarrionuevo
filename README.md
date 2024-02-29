@@ -34,10 +34,10 @@ Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estud
 
 
 ## Mis Proyectos Destacados
-- [ProyectoDevOps](https://github.com/manuBarriouevo/ProyectoDevOps) - Descripción breve del proyecto.
-- [jenkins-library](https://github.com/manuBarriouevo/jenkins-library) - Descripción breve del proyecto.
-- [Terraform-Cloud](https://github.com/manuBarriouevo/Terraform-Cloud) - Descripción breve del proyecto.
-
+- [ProyectoDevOps](https://github.com/manuBarriouevo/ProyectoDevOps)
+- [jenkins-library](https://github.com/manuBarriouevo/jenkins-library)
+- [Terraform-Cloud](https://github.com/manuBarriouevo/Terraform-Cloud)
+  
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub de Manu](https://github-readme-stats.vercel.app/api?username=manuBarrionuevo&show_icons=true&theme=light)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manuBarrionuevo&layout=compact)
