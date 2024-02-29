@@ -1,4 +1,4 @@
-# Hola, soy Manu Barriouevo 👋
+# Hola, soy Manu Barrionuevo 👋
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
@@ -7,17 +7,14 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
-
-
 ![Banner de Manu](https://i.imgur.com/5tCw87R.jpeg)
-
 
 Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estudiar nuevas tecnologías y aprender constantemente. Trabajo mucho con AWS y disfruto compartiendo y discutiendo sobre tecnología.
 
 ## Sobre mí
 - 🌱 Actualmente estoy aprendiendo más sobre automatización de infraestructura, monitoreo y seguridad en la nube.
 - 💬 Pregúntame sobre AWS, Terraform, Jenkins, Docker, Kubernetes y todo lo relacionado con DevOps.
-- 📫 Cómo contactarme: [manuelbarrionuevo678@gmail.com]  <!-- Reemplaza Tu dirección de correo con tu correo electrónico real -->
+- 📫 Cómo contactarme: [manuelbarrionuevo678@gmail.com](mailto:manuelbarrionuevo678@gmail.com)
 
 ## Mis Proyectos Destacados
 - [ProyectoDevOps](https://github.com/manuBarriouevo/ProyectoDevOps) - Descripción breve del proyecto.
@@ -25,7 +22,8 @@ Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estud
 - [Terraform-Cloud](https://github.com/manuBarriouevo/Terraform-Cloud) - Descripción breve del proyecto.
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub de Manu](https://github-readme-stats.vercel.app/api?username=manuBarriouevo&show_icons=true)
+![Estadísticas de GitHub de Manu](https://github-readme-stats.vercel.app/api?username=manuBarriouevo&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide=contribs)
 
 ## Encuéntrame en
-- [LinkedIn](linkedin.com/in/manuel-barrionuevo-7b5946196)  <!-- Reemplaza URL_DE_TU_LINKEDIN con el enlace a tu perfil de LinkedIn -->
+- [LinkedIn](https://www.linkedin.com/in/manuel-barrionuevo-7b5946196)
+
