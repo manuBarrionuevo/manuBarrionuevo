@@ -1,11 +1,12 @@
 # Hola, soy Manu Barriouevo 👋
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+<img src="URL_DEL_ÍCONO_TERRAFORM" width="60" height="60" alt="Terraform"/>
+<img src="URL_DEL_ÍCONO_AWS" width="60" height="60" alt="AWS"/>
+<img src="URL_DEL_ÍCONO_JENKINS" width="60" height="60" alt="Jenkins"/>
+<img src="URL_DEL_ÍCONO_GITHUB" width="60" height="60" alt="GitHub"/>
+<img src="URL_DEL_ÍCONO_VSCODE" width="60" height="60" alt="VS Code"/>
+<img src="URL_DEL_ÍCONO_KUBERNETES" width="60" height="60" alt="Kubernetes"/>
+<img src="URL_DEL_ÍCONO_DOCKER" width="60" height="60" alt="Docker"/>
+
 
 ![Banner de Manu](https://i.imgur.com/5tCw87R.jpeg)
 
