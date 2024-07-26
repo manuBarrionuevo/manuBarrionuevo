@@ -17,7 +17,7 @@
 
 ![Banner de Manu](https://i.imgur.com/5tCw87R.jpeg)
 
-Soy un especialista en Infraestructura y futuro SRE/DevOps con pasión por estudiar nuevas tecnologías y aprender constantemente. Trabajo mucho con AWS y disfruto compartiendo y discutiendo sobre tecnología.
+Soy especialista en Infraestructura y amante de la cultura DevOps, con pasión por estudiar nuevas tecnologías y aprender constantemente. Trabajo mucho con AWS y disfruto compartiendo y discutiendo sobre tecnología.
 
 ## Sobre mí
 - 🌱 Actualmente estoy aprendiendo más sobre automatización de infraestructura, monitoreo y seguridad en la nube.
