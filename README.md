@@ -13,8 +13,6 @@
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows)
 ![Veeam](https://img.shields.io/badge/-Veeam-00B336?style=flat-square&logo=veeam)
 
-
-
 ![Banner de Manu](https://i.imgur.com/5tCw87R.jpeg)
 
 Soy especialista en Infraestructura y amante de la cultura DevOps, con pasión por estudiar nuevas tecnologías y aprender constantemente. Trabajo mucho con AWS y disfruto compartiendo y discutiendo sobre tecnología.
@@ -30,8 +28,7 @@ Soy especialista en Infraestructura y amante de la cultura DevOps, con pasión p
 - [AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/fd2f4232-9707-4568-a3e5-38ae0ad1dab5)
 - [AWS Partner: Cloud Economics Accreditation](https://www.credly.com/badges/2ca88817-fe22-4e23-a321-1cfa31d537ed)
 - [AWS Partner: Sales Accreditation (Business)](https://credly.com/badges/0256279e-a1ff-4f7f-8f17-811532408758)
-
-
+- [Diplomatura en DevOps](https://certificados.mundose.com/?i=bW9kZT1QREYmcmVjb3JkPTM5eDIxODgxMTg=)
 
 ## Mis Proyectos Destacados
 - [ProyectoDevOps](https://github.com/manuBarriouevo/ProyectoDevOps)
@@ -41,8 +38,6 @@ Soy especialista en Infraestructura y amante de la cultura DevOps, con pasión p
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub de Manu](https://github-readme-stats.vercel.app/api?username=manuBarrionuevo&show_icons=true&theme=light)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manuBarrionuevo&layout=compact)
-
-
 
 ## Me gusta...
 - ⚽ Ir a la cancha a ver a Belgrano.
